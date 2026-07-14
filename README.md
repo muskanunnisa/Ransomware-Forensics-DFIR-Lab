@@ -19,7 +19,8 @@
 ## 3. Forensic Artifacts Recovered & Analyzed
 
 ### 📊 Dashboard Overview
-*(We will insert your dashboard screenshot here in the next step!)*
+*(We will insert your dashboard screenshot here in the next step!)*[Ransomware Forensics Dashboard.pdf](https://github.com/user-attachments/files/30006568/Ransomware.Forensics.Dashboard.pdf)
+
 
 ### 🔐 Cryptographic Summary
 * **Algorithm:** AES-256 (Fernet symmetric encryption).
